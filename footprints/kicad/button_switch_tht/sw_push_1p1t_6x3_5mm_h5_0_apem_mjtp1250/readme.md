@@ -18,3 +18,11 @@ source repo at: [http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//
 | oomp key | oomp_kicad_button_switch_tht_sw_push_1p1t_6x3_5mm_h5_0_apem_mjtp1250 | 
 | oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_button_switch_tht_sw_push_1p1t_6x3_5mm_h5_0_apem_mjtp1250/working | 
 ## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  

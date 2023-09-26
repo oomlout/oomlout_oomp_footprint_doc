@@ -3,7 +3,7 @@
   
 oomp key: oomp_kicad_legacy_capacitor_tht_cp_radial_d10_0mm_p3_80mm  
   
-source repo at: [http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+source repo at: [http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Socket.pretty/Wells_648-0482211SA01.kicad_mod](http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Socket.pretty/Wells_648-0482211SA01.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp
 | footprint name | CP_Radial_D10.0mm_P3.80mm | 
 | footprint description | CP, Radial series, Radial, pin pitch=3.80mm, , diameter=10mm, Electrolytic Capacitor | 
 | number of pads | 2 | 
-| github path | http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Capacitor_THT.pretty/CP_Radial_D10.0mm_P3.80mm.kicad_mod | 
+| github path | http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Capacitor_THT.pretty/CP_Radial_D10.0mm_P3.80mm.kicad_mod | 
 | oomp key | oomp_kicad_legacy_capacitor_tht_cp_radial_d10_0mm_p3_80mm | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_capacitor_tht_cp_radial_d10_0mm_p3_80mm/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/kicad_legacy_capacitor_tht_cp_radial_d10_0mm_p3_80mm/working | 
 ## Images  
