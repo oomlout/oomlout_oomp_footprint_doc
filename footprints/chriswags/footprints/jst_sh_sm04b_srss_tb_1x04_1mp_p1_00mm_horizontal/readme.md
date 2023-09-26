@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal  by none  
+## JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal  by chriswags  
   
 oomp key: oomp_chriswags_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal  
   
-source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://github.com/chriswags/KiCad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://github.com/chriswags/KiCad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout
 | footprint name | JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal | 
 | footprint description | JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator | 
 | number of pads | 6 | 
-| github path | http://github.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/demos/stickhub/footprints.pretty/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.kicad_mod | 
+| github path | http://github.com/chriswags/KiCad/blob/master/tmp/data/oomlout_oomp_footprint_src/demos/stickhub/footprints.pretty/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.kicad_mod | 
 | oomp key | oomp_chriswags_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/chriswags_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/chriswags_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal/working | 
 ## Images  

@@ -3,7 +3,7 @@
   
 oomp key: oomp_esden_pkl_module_icebreaker_bitsy_tht  
   
-source repo at: [http://gitlab.com/esden/pretty-kicad-libs/blob/master/tmp/data//oomlout_oomp_footprint_src/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod](http://gitlab.com/esden/pretty-kicad-libs/blob/master/tmp/data//oomlout_oomp_footprint_src/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod)  
+source repo at: [http://gitlab.com/esden/pretty-kicad-libs/blob/master/tmp/data/oomlout_oomp_footprint_src/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod](http://gitlab.com/esden/pretty-kicad-libs/blob/master/tmp/data/oomlout_oomp_footprint_src/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/esden/pretty-kicad-libs/blob/master/tmp/data/
 | footprint name | iCEBreaker_Bitsy_THT | 
 | footprint description | iCEBreaker Bitsy FPGA Development Board | 
 | number of pads | 36 | 
-| github path | http://github.com/esden/pretty-kicad-libs/blob/master/tmp/data//oomlout_oomp_footprint_src/pkl_module.pretty/iCEBreaker_Bitsy_THT.kicad_mod | 
+| github path | http://github.com/esden/pretty-kicad-libs/blob/master/tmp/data/oomlout_oomp_footprint_src/pkl_module.pretty/iCEBreaker_Bitsy_THT.kicad_mod | 
 | oomp key | oomp_esden_pkl_module_icebreaker_bitsy_tht | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/esden_pkl_module_icebreaker_bitsy_tht/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/esden_pkl_module_icebreaker_bitsy_tht/working | 
 ## Images  

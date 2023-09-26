@@ -3,7 +3,7 @@
   
 oomp key: oomp_alexisvl_ipc7351_least_qfp40p3460x3460x410_296  
   
-source repo at: [http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod](http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod)  
+source repo at: [http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod](http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//o
 | footprint name | QFP40P3460X3460X410-296 | 
 | footprint description | QFP,0.40mm pitch,square;74 pin X 74 pin, 32.20mm X 32.20mm X 4.10mm H Body | 
 | number of pads | 296 | 
-| github path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Least.pretty/QFP40P3460X3460X410-296.kicad_mod | 
+| github path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/IPC7351-Least.pretty/QFP40P3460X3460X410-296.kicad_mod | 
 | oomp key | oomp_alexisvl_ipc7351_least_qfp40p3460x3460x410_296 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_qfp40p3460x3460x410_296/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_qfp40p3460x3460x410_296/working | 
 ## Images  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  

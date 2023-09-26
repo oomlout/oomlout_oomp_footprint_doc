@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## 3313J  by none  
+## 3313J  by AcheronProject  
   
 oomp key: oomp_acheronproject_acheron_hardware_3313j  
   
-source repo at: [http://gitlab.com/AcheronProject/acheron_Hardware.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RKJXT1F.kicad_mod](http://gitlab.com/AcheronProject/acheron_Hardware.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RKJXT1F.kicad_mod)  
+source repo at: [http://github.com/AcheronProject/acheron_Hardware.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/RKJXT1F.kicad_mod](http://github.com/AcheronProject/acheron_Hardware.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/RKJXT1F.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://gitlab.com/AcheronProject/acheron_Hardware.pretty/blob/m
 | footprint name | 3313J | 
 | footprint description | Surface mount trimmer | 
 | number of pads | 3 | 
-| github path | http://github.com/AcheronProject/acheron_Hardware.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/3313J.kicad_mod | 
+| github path | http://github.com/AcheronProject/acheron_Hardware.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/3313J.kicad_mod | 
 | oomp key | oomp_acheronproject_acheron_hardware_3313j | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_hardware_3313j/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/acheronproject_acheron_hardware_3313j/working | 
 ## Images  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  

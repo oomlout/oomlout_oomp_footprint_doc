@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## ALTIE-CB_PFF  by none  
+## ALTIE-CB_PFF  by johaa1993  
   
 oomp key: oomp_johaa1993_kicad_dev_acs758_hall  
   
-source repo at: [http://gitlab.com/johaa1993/KiCad-Dev.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XT60.kicad_mod](http://gitlab.com/johaa1993/KiCad-Dev.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XT60.kicad_mod)  
+source repo at: [http://github.com/johaa1993/KiCad-Dev.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XT60.kicad_mod](http://github.com/johaa1993/KiCad-Dev.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XT60.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/johaa1993/KiCad-Dev.pretty/blob/master/tmp/da
 | footprint name | ALTIE-CB_PFF | 
 | footprint description | None | 
 | number of pads | 5 | 
-| github path | http://github.com/johaa1993/KiCad-Dev.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ACS758-hall.kicad_mod | 
+| github path | http://github.com/johaa1993/KiCad-Dev.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ACS758-hall.kicad_mod | 
 | oomp key | oomp_johaa1993_kicad_dev_acs758_hall | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/johaa1993_kicad_dev_acs758_hall/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/johaa1993_kicad_dev_acs758_hall/working | 
 ## Images  

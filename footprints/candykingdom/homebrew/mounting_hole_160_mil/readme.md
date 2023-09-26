@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MOUNTING_HOLE_160_MIL  by none  
+## MOUNTING_HOLE_160_MIL  by candykingdom  
   
 oomp key: oomp_candykingdom_homebrew_mounting_hole_160_mil  
   
-source repo at: [http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod](http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod)  
+source repo at: [http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod](http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/
 | footprint name | MOUNTING_HOLE_160_MIL | 
 | footprint description | None | 
 | number of pads | 1 | 
-| github path | http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MOUNTING_HOLE_160_MIL.kicad_mod | 
+| github path | http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MOUNTING_HOLE_160_MIL.kicad_mod | 
 | oomp key | oomp_candykingdom_homebrew_mounting_hole_160_mil | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/candykingdom_homebrew_mounting_hole_160_mil/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/candykingdom_homebrew_mounting_hole_160_mil/working | 
 ## Images  

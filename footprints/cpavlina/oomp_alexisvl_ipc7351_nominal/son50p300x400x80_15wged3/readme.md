@@ -3,7 +3,7 @@
   
 oomp key: oomp_alexisvl_ipc7351_nominal_son50p300x400x80_15wged3  
   
-source repo at: [http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod](http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod)  
+source repo at: [http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod](http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//o
 | footprint name | SON50P300X400X80-15WGED3 | 
 | footprint description | SON,0.50mm pitch;14 pin,3.00mm W X 4.00mm L X 0.80mm H Body (w/thermal tab) | 
 | number of pads | 15 | 
-| github path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/SON50P300X400X80-15WGED3.kicad_mod | 
+| github path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/SON50P300X400X80-15WGED3.kicad_mod | 
 | oomp key | oomp_alexisvl_ipc7351_nominal_son50p300x400x80_15wged3 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_son50p300x400x80_15wged3/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_son50p300x400x80_15wged3/working | 
 ## Images  

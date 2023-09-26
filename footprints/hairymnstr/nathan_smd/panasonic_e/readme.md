@@ -3,7 +3,7 @@
   
 oomp key: oomp_hairymnstr_nathan_smd_panasonic_e  
   
-source repo at: [http://gitlab.com/hairymnstr/Nathan_SMD.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WE_TPC.kicad_mod](http://gitlab.com/hairymnstr/Nathan_SMD.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WE_TPC.kicad_mod)  
+source repo at: [http://gitlab.com/hairymnstr/Nathan_SMD.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WE_TPC.kicad_mod](http://gitlab.com/hairymnstr/Nathan_SMD.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WE_TPC.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/hairymnstr/Nathan_SMD.pretty/blob/master/tmp/
 | footprint name | PANASONIC_E | 
 | footprint description | None | 
 | number of pads | 2 | 
-| github path | http://github.com/hairymnstr/Nathan_SMD.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PANASONIC_E.kicad_mod | 
+| github path | http://github.com/hairymnstr/Nathan_SMD.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/PANASONIC_E.kicad_mod | 
 | oomp key | oomp_hairymnstr_nathan_smd_panasonic_e | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_smd_panasonic_e/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_smd_panasonic_e/working | 
 ## Images  

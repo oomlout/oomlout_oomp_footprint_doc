@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Keystone_2477  by none  
+## Keystone_2477  by ANDnXOR  
   
 oomp key: oomp_andnxor_andnxor_kicad_keystone_2477  
   
-source repo at: [http://gitlab.com/ANDnXOR/ANDnXOR-Kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WS2812B.kicad_mod](http://gitlab.com/ANDnXOR/ANDnXOR-Kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WS2812B.kicad_mod)  
+source repo at: [http://github.com/ANDnXOR/ANDnXOR-Kicad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WS2812B.kicad_mod](http://github.com/ANDnXOR/ANDnXOR-Kicad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WS2812B.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/ANDnXOR/ANDnXOR-Kicad.pretty/blob/master/tmp/
 | footprint name | Keystone_2477 | 
 | footprint description | None | 
 | number of pads | 4 | 
-| github path | http://github.com/ANDnXOR/ANDnXOR-Kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Keystone_2477.kicad_mod | 
+| github path | http://github.com/ANDnXOR/ANDnXOR-Kicad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Keystone_2477.kicad_mod | 
 | oomp key | oomp_andnxor_andnxor_kicad_keystone_2477 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/andnxor_andnxor_kicad_keystone_2477/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/andnxor_andnxor_kicad_keystone_2477/working | 
 ## Images  

@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## RoteryEncoderWithPowerLabel  by none  
+## RoteryEncoderWithPowerLabel  by asukiaaa  
   
 oomp key: oomp_asukiaaa_asukiaaa_kicad_footprints_roteryencoderwithpowerlabel  
   
-source repo at: [http://gitlab.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod](http://gitlab.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod)  
+source repo at: [http://github.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod](http://github.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blo
 | footprint name | RoteryEncoderWithPowerLabel | 
 | footprint description | http://akizukidenshi.com/catalog/g/gP-00244/ | 
 | number of pads | 5 | 
-| github path | http://github.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RoteryEncoderWithPowerLabel.kicad_mod | 
+| github path | http://github.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/RoteryEncoderWithPowerLabel.kicad_mod | 
 | oomp key | oomp_asukiaaa_asukiaaa_kicad_footprints_roteryencoderwithpowerlabel | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/asukiaaa_asukiaaa_kicad_footprints_roteryencoderwithpowerlabel/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/asukiaaa_asukiaaa_kicad_footprints_roteryencoderwithpowerlabel/working | 
 ## Images  

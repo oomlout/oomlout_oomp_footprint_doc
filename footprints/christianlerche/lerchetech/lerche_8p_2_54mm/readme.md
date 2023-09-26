@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Lerche_8P_2.54mm  by none  
+## Lerche_8P_2.54mm  by ChristianLerche  
   
 oomp key: oomp_christianlerche_lerchetech_lerche_8p_2_54mm  
   
-source repo at: [http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod](http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod)  
+source repo at: [http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod](http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/
 | footprint name | Lerche_8P_2.54mm | 
 | footprint description | None | 
 | number of pads | 8 | 
-| github path | http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/Lerche_8P_2.54mm.kicad_mod | 
+| github path | http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/Lerche_8P_2.54mm.kicad_mod | 
 | oomp key | oomp_christianlerche_lerchetech_lerche_8p_2_54mm | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/christianlerche_lerchetech_lerche_8p_2_54mm/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/christianlerche_lerchetech_lerche_8p_2_54mm/working | 
 ## Images  

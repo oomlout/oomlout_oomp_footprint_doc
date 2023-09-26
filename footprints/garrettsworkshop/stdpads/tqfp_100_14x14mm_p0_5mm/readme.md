@@ -3,7 +3,7 @@
   
 oomp key: oomp_garrettsworkshop_stdpads_tqfp_100_14x14mm_p0_5mm  
   
-source repo at: [http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod](http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod)  
+source repo at: [http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod](http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/t
 | footprint name | TQFP-100_14x14mm_P0.5mm | 
 | footprint description | TQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py | 
 | number of pads | 100 | 
-| github path | http://github.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TQFP-100_14x14mm_P0.5mm.kicad_mod | 
+| github path | http://github.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TQFP-100_14x14mm_P0.5mm.kicad_mod | 
 | oomp key | oomp_garrettsworkshop_stdpads_tqfp_100_14x14mm_p0_5mm | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/garrettsworkshop_stdpads_tqfp_100_14x14mm_p0_5mm/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/garrettsworkshop_stdpads_tqfp_100_14x14mm_p0_5mm/working | 
 ## Images  

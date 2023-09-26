@@ -3,7 +3,7 @@
   
 oomp key: oomp_axello_freetronics_footprints_1pin_prototyping  
   
-source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oo
 | footprint name | 1pin_prototyping | 
 | footprint description | module 1 pin (ou trou mecanique de percage) | 
 | number of pads | 1 | 
-| github path | http://github.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/freetronics_footprints.pretty/1pin_prototyping.kicad_mod | 
+| github path | http://github.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/freetronics_footprints.pretty/1pin_prototyping.kicad_mod | 
 | oomp key | oomp_axello_freetronics_footprints_1pin_prototyping | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_1pin_prototyping/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_1pin_prototyping/working | 
 ## Images  

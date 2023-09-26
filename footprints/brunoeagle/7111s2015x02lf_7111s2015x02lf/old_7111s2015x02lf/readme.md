@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## OLD:7111S2015X02LF  by none  
+## OLD:7111S2015X02LF  by brunoeagle  
   
 oomp key: oomp_brunoeagle_7111s2015x02lf_7111s2015x02lf  
   
-source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
+source repo at: [http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp
 | footprint name | OLD:7111S2015X02LF | 
 | footprint description | None | 
 | number of pads | 6 | 
-| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/7111S2015X02LF.kicad_mod | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/7111S2015X02LF.kicad_mod | 
 | oomp key | oomp_brunoeagle_7111s2015x02lf_7111s2015x02lf | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/brunoeagle_7111s2015x02lf_7111s2015x02lf/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/brunoeagle_7111s2015x02lf_7111s2015x02lf/working | 
 ## Images  

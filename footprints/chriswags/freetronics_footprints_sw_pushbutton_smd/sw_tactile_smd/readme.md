@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## SW_TACTILE_SMD  by none  
+## SW_TACTILE_SMD  by chriswags  
   
 oomp key: oomp_chriswags_freetronics_footprints_sw_pushbutton_smd  
   
-source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://github.com/chriswags/KiCad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://github.com/chriswags/KiCad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout
 | footprint name | SW_TACTILE_SMD | 
 | footprint description | None | 
 | number of pads | 4 | 
-| github path | http://github.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/freetronics_footprints.pretty/SW_PUSHBUTTON_SMD.kicad_mod | 
+| github path | http://github.com/chriswags/KiCad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/freetronics_footprints.pretty/SW_PUSHBUTTON_SMD.kicad_mod | 
 | oomp key | oomp_chriswags_freetronics_footprints_sw_pushbutton_smd | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/chriswags_freetronics_footprints_sw_pushbutton_smd/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/chriswags_freetronics_footprints_sw_pushbutton_smd/working | 
 ## Images  

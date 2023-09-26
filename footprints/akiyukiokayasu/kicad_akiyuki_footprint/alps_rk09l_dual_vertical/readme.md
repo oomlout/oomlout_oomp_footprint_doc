@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## ALPS_RK09L_Dual_Vertical  by none  
+## ALPS_RK09L_Dual_Vertical  by AkiyukiOkayasu  
   
 oomp key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_alps_rk09l_dual_vertical  
   
-source repo at: [http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
+source repo at: [http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty
 | footprint name | ALPS_RK09L_Dual_Vertical | 
 | footprint description | Potentiometer, vertical, Alps RK09L Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html | 
 | number of pads | 8 | 
-| github path | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ALPS_RK09L_Dual_Vertical.kicad_mod | 
+| github path | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ALPS_RK09L_Dual_Vertical.kicad_mod | 
 | oomp key | oomp_akiyukiokayasu_kicad_akiyuki_footprint_alps_rk09l_dual_vertical | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_alps_rk09l_dual_vertical/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_alps_rk09l_dual_vertical/working | 
 ## Images  
   
 [![working.png](working_140.png)](working.png)  

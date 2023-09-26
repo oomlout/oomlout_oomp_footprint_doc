@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## TE-Connectivity_SO-DIMM_144p_390112-1_CARD  by none  
+## TE-Connectivity_SO-DIMM_144p_390112-1_CARD  by ChristianLerche  
   
 oomp key: oomp_christianlerche_lerchetech_te_connectivity_so_dimm_144p_390112_1_card  
   
-source repo at: [http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod](http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod)  
+source repo at: [http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod](http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/
 | footprint name | TE-Connectivity_SO-DIMM_144p_390112-1_CARD | 
 | footprint description | None | 
 | number of pads | 146 | 
-| github path | http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/TE-Connectivity_SO-DIMM_144p_390112-1_CARD.kicad_mod | 
+| github path | http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/TE-Connectivity_SO-DIMM_144p_390112-1_CARD.kicad_mod | 
 | oomp key | oomp_christianlerche_lerchetech_te_connectivity_so_dimm_144p_390112_1_card | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/christianlerche_lerchetech_te_connectivity_so_dimm_144p_390112_1_card/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/christianlerche_lerchetech_te_connectivity_so_dimm_144p_390112_1_card/working | 
 ## Images  

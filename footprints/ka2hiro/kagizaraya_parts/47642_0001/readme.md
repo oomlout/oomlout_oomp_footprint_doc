@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## 47642-0001  by none  
+## 47642-0001  by kagizaraya  
   
 oomp key: oomp_ka2hiro_kagizaraya_parts_47642_0001  
   
-source repo at: [http://gitlab.com/ka2hiro/kagizaraya-parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/47642-0001_HandSoldering.kicad_mod](http://gitlab.com/ka2hiro/kagizaraya-parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/47642-0001_HandSoldering.kicad_mod)  
+source repo at: [http://github.com/ka2hiro/kagizaraya-parts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/47642-0001_HandSoldering.kicad_mod](http://github.com/ka2hiro/kagizaraya-parts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/47642-0001_HandSoldering.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/ka2hiro/kagizaraya-parts.pretty/blob/master/t
 | footprint name | 47642-0001 | 
 | footprint description | None | 
 | number of pads | 9 | 
-| github path | http://github.com/ka2hiro/kagizaraya-parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/47642-0001.kicad_mod | 
+| github path | http://github.com/ka2hiro/kagizaraya-parts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/47642-0001.kicad_mod | 
 | oomp key | oomp_ka2hiro_kagizaraya_parts_47642_0001 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/ka2hiro_kagizaraya_parts_47642_0001/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/ka2hiro_kagizaraya_parts_47642_0001/working | 
 ## Images  

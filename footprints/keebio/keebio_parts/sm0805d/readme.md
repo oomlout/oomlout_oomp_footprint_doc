@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## SM0805D  by none  
+## SM0805D  by keebio  
   
 oomp key: oomp_keebio_keebio_parts_sm0805d  
   
-source repo at: [http://gitlab.com/keebio/Keebio-Parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WS2812B.kicad_mod](http://gitlab.com/keebio/Keebio-Parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WS2812B.kicad_mod)  
+source repo at: [http://github.com/keebio/Keebio-Parts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WS2812B.kicad_mod](http://github.com/keebio/Keebio-Parts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WS2812B.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/keebio/Keebio-Parts.pretty/blob/master/tmp/da
 | footprint name | SM0805D | 
 | footprint description | None | 
 | number of pads | 2 | 
-| github path | http://github.com/keebio/Keebio-Parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SM0805D.kicad_mod | 
+| github path | http://github.com/keebio/Keebio-Parts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SM0805D.kicad_mod | 
 | oomp key | oomp_keebio_keebio_parts_sm0805d | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/keebio_keebio_parts_sm0805d/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/keebio_keebio_parts_sm0805d/working | 
 ## Images  

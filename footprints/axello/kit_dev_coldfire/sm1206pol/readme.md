@@ -3,7 +3,7 @@
   
 oomp key: oomp_axello_kit_dev_coldfire_sm1206pol  
   
-source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oo
 | footprint name | SM1206POL | 
 | footprint description | None | 
 | number of pads | 2 | 
-| github path | http://github.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SM1206POL.kicad_mod | 
+| github path | http://github.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SM1206POL.kicad_mod | 
 | oomp key | oomp_axello_kit_dev_coldfire_sm1206pol | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/axello_kit_dev_coldfire_sm1206pol/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/axello_kit_dev_coldfire_sm1206pol/working | 
 ## Images  

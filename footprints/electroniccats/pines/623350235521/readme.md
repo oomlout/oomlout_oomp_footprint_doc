@@ -3,7 +3,7 @@
   
 oomp key: oomp_electroniccats_pines_623350235521  
   
-source repo at: [http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod](http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod)  
+source repo at: [http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod](http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthEl
 | footprint name | 623350235521 | 
 | footprint description | <b>WR-PHD 1.27mm Dual SMT Pin Header H=1.80mm, 50 Pins<b> | 
 | number of pads | 50 | 
-| github path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Pines.pretty/623350235521.kicad_mod | 
+| github path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Pines.pretty/623350235521.kicad_mod | 
 | oomp key | oomp_electroniccats_pines_623350235521 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/electroniccats_pines_623350235521/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/electroniccats_pines_623350235521/working | 
 ## Images  

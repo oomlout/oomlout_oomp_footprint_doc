@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MX-10U-ReversedStabilizers  by none  
+## MX-10U-ReversedStabilizers  by ai03-2725  
   
 oomp key: oomp_ai03_2725_mx_alps_hybrid_mx_10u_reversedstabilizers  
   
-source repo at: [http://gitlab.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod](http://gitlab.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod)  
+source repo at: [http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod](http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://gitlab.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/t
 | footprint name | MX-10U-ReversedStabilizers | 
 | footprint description | None | 
 | number of pads | 13 | 
-| github path | http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Alps_Hybrid.pretty/MX-10U-ReversedStabilizers.kicad_mod | 
+| github path | http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_Alps_Hybrid.pretty/MX-10U-ReversedStabilizers.kicad_mod | 
 | oomp key | oomp_ai03_2725_mx_alps_hybrid_mx_10u_reversedstabilizers | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/ai03_2725_mx_alps_hybrid_mx_10u_reversedstabilizers/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/ai03_2725_mx_alps_hybrid_mx_10u_reversedstabilizers/working | 
 ## Images  
   
 [![working.png](working_140.png)](working.png)  

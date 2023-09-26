@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## USB-BN  by none  
+## USB-BN  by brunoeagle  
   
 oomp key: oomp_brunoeagle_usb_bn_usb_bn  
   
-source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
+source repo at: [http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp
 | footprint name | USB-BN | 
 | footprint description | USB B connector | 
 | number of pads | 6 | 
-| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/USB-BN.kicad_mod | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/USB-BN.kicad_mod | 
 | oomp key | oomp_brunoeagle_usb_bn_usb_bn | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/brunoeagle_usb_bn_usb_bn/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/brunoeagle_usb_bn_usb_bn/working | 
 ## Images  

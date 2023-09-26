@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Lerche_Hole_4mm  by none  
+## Lerche_Hole_4mm  by ChristianLerche  
   
 oomp key: oomp_christianlerche_lerchetech_lerche_hole_4mm  
   
-source repo at: [http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod](http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod)  
+source repo at: [http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod](http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/
 | footprint name | Lerche_Hole_4mm | 
 | footprint description | None | 
 | number of pads | 9 | 
-| github path | http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/Lerche_Hole_4mm.kicad_mod | 
+| github path | http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/Lerche_Hole_4mm.kicad_mod | 
 | oomp key | oomp_christianlerche_lerchetech_lerche_hole_4mm | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/christianlerche_lerchetech_lerche_hole_4mm/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/christianlerche_lerchetech_lerche_hole_4mm/working | 
 ## Images  

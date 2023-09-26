@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Coilcraft_MSS1210_Inductor  by none  
+## Coilcraft_MSS1210_Inductor  by hoskinstech  
   
 oomp key: oomp_hoskinstech_bjh_kicad_rcld_fp_coilcraft_mss1210_inductor  
   
-source repo at: [http://gitlab.com/hoskinstech/bjh-kicad-rcld-fp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PWR5322_SMD.kicad_mod](http://gitlab.com/hoskinstech/bjh-kicad-rcld-fp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PWR5322_SMD.kicad_mod)  
+source repo at: [http://github.com/hoskinstech/bjh-kicad-rcld-fp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/PWR5322_SMD.kicad_mod](http://github.com/hoskinstech/bjh-kicad-rcld-fp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/PWR5322_SMD.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/hoskinstech/bjh-kicad-rcld-fp.pretty/blob/mas
 | footprint name | Coilcraft_MSS1210_Inductor | 
 | footprint description | None | 
 | number of pads | 2 | 
-| github path | http://github.com/hoskinstech/bjh-kicad-rcld-fp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Coilcraft_MSS1210_Inductor.kicad_mod | 
+| github path | http://github.com/hoskinstech/bjh-kicad-rcld-fp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Coilcraft_MSS1210_Inductor.kicad_mod | 
 | oomp key | oomp_hoskinstech_bjh_kicad_rcld_fp_coilcraft_mss1210_inductor | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hoskinstech_bjh_kicad_rcld_fp_coilcraft_mss1210_inductor/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hoskinstech_bjh_kicad_rcld_fp_coilcraft_mss1210_inductor/working | 
 ## Images  

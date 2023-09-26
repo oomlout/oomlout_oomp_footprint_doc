@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## 3.5mm-2-terminal  by none  
+## 3.5mm-2-terminal  by apexelectrix  
   
 oomp key: oomp_apexelectrix_apex_3_5mm_2_terminal  
   
-source repo at: [http://gitlab.com/apexelectrix/Apex.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB-Micro-B.kicad_mod](http://gitlab.com/apexelectrix/Apex.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB-Micro-B.kicad_mod)  
+source repo at: [http://github.com/apexelectrix/Apex.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB-Micro-B.kicad_mod](http://github.com/apexelectrix/Apex.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB-Micro-B.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/apexelectrix/Apex.pretty/blob/master/tmp/data
 | footprint name | 3.5mm-2-terminal | 
 | footprint description | None | 
 | number of pads | 2 | 
-| github path | http://github.com/apexelectrix/Apex.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/3.5mm-2-terminal.kicad_mod | 
+| github path | http://github.com/apexelectrix/Apex.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/3.5mm-2-terminal.kicad_mod | 
 | oomp key | oomp_apexelectrix_apex_3_5mm_2_terminal | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/apexelectrix_apex_3_5mm_2_terminal/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/apexelectrix_apex_3_5mm_2_terminal/working | 
 ## Images  

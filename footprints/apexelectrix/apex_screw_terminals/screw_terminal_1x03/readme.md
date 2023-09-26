@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Screw_Terminal_1x03  by none  
+## Screw_Terminal_1x03  by apexelectrix  
   
 oomp key: oomp_apexelectrix_apex_screw_terminals_screw_terminal_1x03  
   
-source repo at: [http://gitlab.com/apexelectrix/apex-screw-terminals.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Screw_Terminal_1x03.kicad_mod](http://gitlab.com/apexelectrix/apex-screw-terminals.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Screw_Terminal_1x03.kicad_mod)  
+source repo at: [http://github.com/apexelectrix/apex-screw-terminals.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Screw_Terminal_1x03.kicad_mod](http://github.com/apexelectrix/apex-screw-terminals.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Screw_Terminal_1x03.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/apexelectrix/apex-screw-terminals.pretty/blob
 | footprint name | Screw_Terminal_1x03 | 
 | footprint description | Through hole pin header | 
 | number of pads | 3 | 
-| github path | http://github.com/apexelectrix/apex-screw-terminals.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Screw_Terminal_1x03.kicad_mod | 
+| github path | http://github.com/apexelectrix/apex-screw-terminals.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Screw_Terminal_1x03.kicad_mod | 
 | oomp key | oomp_apexelectrix_apex_screw_terminals_screw_terminal_1x03 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/apexelectrix_apex_screw_terminals_screw_terminal_1x03/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/apexelectrix_apex_screw_terminals_screw_terminal_1x03/working | 
 ## Images  

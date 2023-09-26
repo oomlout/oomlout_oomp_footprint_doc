@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## CONN_2337019-1  by none  
+## CONN_2337019-1  by candykingdom  
   
 oomp key: oomp_candykingdom_homebrew_conn_2337019_1  
   
-source repo at: [http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod](http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod)  
+source repo at: [http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod](http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/
 | footprint name | CONN_2337019-1 | 
 | footprint description | None | 
 | number of pads | 3 | 
-| github path | http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CONN_2337019-1.kicad_mod | 
+| github path | http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/CONN_2337019-1.kicad_mod | 
 | oomp key | oomp_candykingdom_homebrew_conn_2337019_1 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/candykingdom_homebrew_conn_2337019_1/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/candykingdom_homebrew_conn_2337019_1/working | 
 ## Images  

@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## D_DO-35_P2.54_Vertical_KarhodeUp  by none  
+## D_DO-35_P2.54_Vertical_KarhodeUp  by JEON-KS  
   
 oomp key: oomp_jeon_ks_kicad_footprint_d_do_35_p2_54_vertical_karhodeup  
   
-source repo at: [http://gitlab.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod](http://gitlab.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod)  
+source repo at: [http://github.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod](http://github.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tm
 | footprint name | D_DO-35_P2.54_Vertical_KarhodeUp | 
 | footprint description | None | 
 | number of pads | 2 | 
-| github path | http://github.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/D_DO-35_P2.54_Vertical_KarhodeUp.kicad_mod | 
+| github path | http://github.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/D_DO-35_P2.54_Vertical_KarhodeUp.kicad_mod | 
 | oomp key | oomp_jeon_ks_kicad_footprint_d_do_35_p2_54_vertical_karhodeup | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/jeon_ks_kicad_footprint_d_do_35_p2_54_vertical_karhodeup/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/jeon_ks_kicad_footprint_d_do_35_p2_54_vertical_karhodeup/working | 
 ## Images  

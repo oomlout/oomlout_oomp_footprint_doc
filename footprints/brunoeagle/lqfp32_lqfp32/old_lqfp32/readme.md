@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## OLD:LQFP32  by none  
+## OLD:LQFP32  by brunoeagle  
   
 oomp key: oomp_brunoeagle_lqfp32_lqfp32  
   
-source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
+source repo at: [http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp
 | footprint name | OLD:LQFP32 | 
 | footprint description | None | 
 | number of pads | 32 | 
-| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/LQFP32.kicad_mod | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/LQFP32.kicad_mod | 
 | oomp key | oomp_brunoeagle_lqfp32_lqfp32 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/brunoeagle_lqfp32_lqfp32/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/brunoeagle_lqfp32_lqfp32/working | 
 ## Images  

@@ -3,7 +3,7 @@
   
 oomp key: oomp_garrettsworkshop_stdpads_sw_cuk_js202011aqn_dpdt_angled  
   
-source repo at: [http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod](http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod)  
+source repo at: [http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod](http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/t
 | footprint name | SW_CuK_JS202011AQN_DPDT_Angled | 
 | footprint description | CuK sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf | 
 | number of pads | 6 | 
-| github path | http://github.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_CuK_JS202011AQN_DPDT_Angled.kicad_mod | 
+| github path | http://github.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SW_CuK_JS202011AQN_DPDT_Angled.kicad_mod | 
 | oomp key | oomp_garrettsworkshop_stdpads_sw_cuk_js202011aqn_dpdt_angled | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/garrettsworkshop_stdpads_sw_cuk_js202011aqn_dpdt_angled/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/garrettsworkshop_stdpads_sw_cuk_js202011aqn_dpdt_angled/working | 
 ## Images  

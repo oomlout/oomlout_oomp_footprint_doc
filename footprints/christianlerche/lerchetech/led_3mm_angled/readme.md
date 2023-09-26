@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## LED_3mm_angled  by none  
+## LED_3mm_angled  by ChristianLerche  
   
 oomp key: oomp_christianlerche_lerchetech_led_3mm_angled  
   
-source repo at: [http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod](http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod)  
+source repo at: [http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod](http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/
 | footprint name | LED_3mm_angled | 
 | footprint description | None | 
 | number of pads | 2 | 
-| github path | http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/LED_3mm_angled.kicad_mod | 
+| github path | http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/LED_3mm_angled.kicad_mod | 
 | oomp key | oomp_christianlerche_lerchetech_led_3mm_angled | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/christianlerche_lerchetech_led_3mm_angled/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/christianlerche_lerchetech_led_3mm_angled/working | 
 ## Images  

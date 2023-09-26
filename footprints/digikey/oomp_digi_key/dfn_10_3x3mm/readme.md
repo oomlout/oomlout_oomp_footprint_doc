@@ -3,7 +3,7 @@
   
 oomp key: oomp_digi_key_dfn_10_3x3mm_dfn_10_3x3mm  
   
-source repo at: [http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod](http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod)  
+source repo at: [http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data/oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod](http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data/oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://github.com/digikey/digikey-kicad-library/blob/master/tmp
 | footprint name | DFN-10_3x3mm | 
 | footprint description | http://cache.freescale.com/files/sensors/doc/data_sheet/MMA7660FC.pdf | 
 | number of pads | 10 | 
-| github path | http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/DFN-10_3x3mm.kicad_mod | 
+| github path | http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data/oomlout_oomp_footprint_src/src/Source_Footprints/DFN-10_3x3mm.kicad_mod | 
 | oomp key | oomp_digi_key_dfn_10_3x3mm_dfn_10_3x3mm | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/digi_key_dfn_10_3x3mm_dfn_10_3x3mm/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/digi_key_dfn_10_3x3mm_dfn_10_3x3mm/working | 
 ## Images  

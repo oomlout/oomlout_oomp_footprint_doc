@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## RaspberryPiPico_SMD_TH_HandSolder  by none  
+## RaspberryPiPico_SMD_TH_HandSolder  by AkiyukiOkayasu  
   
 oomp key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th_handsolder  
   
-source repo at: [http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
+source repo at: [http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty
 | footprint name | RaspberryPiPico_SMD_TH_HandSolder | 
 | footprint description | Through hole straight pin header, 2x20, 2.54mm pitch, double rows | 
 | number of pads | 96 | 
-| github path | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RaspberryPiPico_SMD_TH_HandSolder.kicad_mod | 
+| github path | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/RaspberryPiPico_SMD_TH_HandSolder.kicad_mod | 
 | oomp key | oomp_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th_handsolder | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th_handsolder/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th_handsolder/working | 
 ## Images  
   
 [![working.png](working_140.png)](working.png)  

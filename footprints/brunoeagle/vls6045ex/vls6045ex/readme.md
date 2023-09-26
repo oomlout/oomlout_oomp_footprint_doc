@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## VLS6045EX  by none  
+## VLS6045EX  by brunoeagle  
   
 oomp key: oomp_brunoeagle_vls6045ex_vls6045ex  
   
-source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
+source repo at: [http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp
 | footprint name | VLS6045EX | 
 | footprint description | None | 
 | number of pads | 2 | 
-| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/VLS6045EX.kicad_mod | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/VLS6045EX.kicad_mod | 
 | oomp key | oomp_brunoeagle_vls6045ex_vls6045ex | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/brunoeagle_vls6045ex_vls6045ex/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/brunoeagle_vls6045ex_vls6045ex/working | 
 ## Images  

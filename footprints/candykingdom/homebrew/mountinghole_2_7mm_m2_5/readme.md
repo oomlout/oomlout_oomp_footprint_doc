@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MountingHole_2.7mm_M2.5  by none  
+## MountingHole_2.7mm_M2.5  by candykingdom  
   
 oomp key: oomp_candykingdom_homebrew_mountinghole_2_7mm_m2_5  
   
-source repo at: [http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod](http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod)  
+source repo at: [http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod](http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/
 | footprint name | MountingHole_2.7mm_M2.5 | 
 | footprint description | Mounting Hole 2.7mm, M2.5 | 
 | number of pads | 1 | 
-| github path | http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MountingHole_2.7mm_M2.5.kicad_mod | 
+| github path | http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MountingHole_2.7mm_M2.5.kicad_mod | 
 | oomp key | oomp_candykingdom_homebrew_mountinghole_2_7mm_m2_5 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/candykingdom_homebrew_mountinghole_2_7mm_m2_5/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/candykingdom_homebrew_mountinghole_2_7mm_m2_5/working | 
 ## Images  

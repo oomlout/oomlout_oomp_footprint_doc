@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Lerche_SMA_Edge  by none  
+## Lerche_SMA_Edge  by ChristianLerche  
   
 oomp key: oomp_christianlerche_lerchetech_lerche_sma_edge  
   
-source repo at: [http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod](http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod)  
+source repo at: [http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod](http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/
 | footprint name | Lerche_SMA_Edge | 
 | footprint description | None | 
 | number of pads | 5 | 
-| github path | http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/Lerche_SMA_Edge.kicad_mod | 
+| github path | http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/LercheTech.pretty/Lerche_SMA_Edge.kicad_mod | 
 | oomp key | oomp_christianlerche_lerchetech_lerche_sma_edge | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/christianlerche_lerchetech_lerche_sma_edge/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/christianlerche_lerchetech_lerche_sma_edge/working | 
 ## Images  

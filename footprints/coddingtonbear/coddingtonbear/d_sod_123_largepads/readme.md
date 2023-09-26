@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## D_SOD-123_LargePads  by none  
+## D_SOD-123_LargePads  by coddingtonbear  
   
 oomp key: oomp_coddingtonbear_coddingtonbear_d_sod_123_largepads  
   
-source repo at: [http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod](http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod)  
+source repo at: [http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod](http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/
 | footprint name | D_SOD-123_LargePads | 
 | footprint description | SOD-123 | 
 | number of pads | 2 | 
-| github path | http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/D_SOD-123_LargePads.kicad_mod | 
+| github path | http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/coddingtonbear.pretty/D_SOD-123_LargePads.kicad_mod | 
 | oomp key | oomp_coddingtonbear_coddingtonbear_d_sod_123_largepads | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/coddingtonbear_coddingtonbear_d_sod_123_largepads/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/coddingtonbear_coddingtonbear_d_sod_123_largepads/working | 
 ## Images  

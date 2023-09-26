@@ -3,7 +3,7 @@
   
 oomp key: oomp_axello_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg  
   
-source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oo
 | footprint name | SW_Cherry_MX_PCB_ISOEnter_180deg | 
 | footprint description | Cherry MX keyswitch PCB Mount with ISOEnter 180deg keycap | 
 | number of pads | 5 | 
-| github path | http://github.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty/SW_Cherry_MX_PCB_ISOEnter_180deg.kicad_mod | 
+| github path | http://github.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty/SW_Cherry_MX_PCB_ISOEnter_180deg.kicad_mod | 
 | oomp key | oomp_axello_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/axello_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/axello_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg/working | 
 ## Images  

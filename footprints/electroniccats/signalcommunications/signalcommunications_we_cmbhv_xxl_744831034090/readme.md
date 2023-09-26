@@ -3,7 +3,7 @@
   
 oomp key: oomp_electroniccats_signalcommunications_signalcommunications_we_cmbhv_xxl_744831034090  
   
-source repo at: [http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod](http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod)  
+source repo at: [http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod](http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthEl
 | footprint name | SignalCommunications-WE-CMBHV_XXL_744831034090 | 
 | footprint description | WE-CMBHV COMMON MODE POWER LINE CHOKE | 
 | number of pads | 6 | 
-| github path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-CMBHV_XXL_744831034090.kicad_mod | 
+| github path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-CMBHV_XXL_744831034090.kicad_mod | 
 | oomp key | oomp_electroniccats_signalcommunications_signalcommunications_we_cmbhv_xxl_744831034090 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/electroniccats_signalcommunications_signalcommunications_we_cmbhv_xxl_744831034090/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/electroniccats_signalcommunications_signalcommunications_we_cmbhv_xxl_744831034090/working | 
 ## Images  

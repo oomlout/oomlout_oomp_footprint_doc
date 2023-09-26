@@ -3,7 +3,7 @@
   
 oomp key: oomp_fruchti_rcl_r_4w_ohmite_fc4l64  
   
-source repo at: [http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod](http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod)  
+source repo at: [http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod](http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//ooml
 | footprint name | R_4W_OHMITE_FC4L64 | 
 | footprint description | None | 
 | number of pads | 4 | 
-| github path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/rcl.pretty/R_4W_OHMITE_FC4L64.kicad_mod | 
+| github path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/rcl.pretty/R_4W_OHMITE_FC4L64.kicad_mod | 
 | oomp key | oomp_fruchti_rcl_r_4w_ohmite_fc4l64 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/fruchti_rcl_r_4w_ohmite_fc4l64/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/fruchti_rcl_r_4w_ohmite_fc4l64/working | 
 ## Images  

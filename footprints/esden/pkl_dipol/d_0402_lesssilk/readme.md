@@ -3,7 +3,7 @@
   
 oomp key: oomp_esden_pkl_dipol_d_0402_lesssilk  
   
-source repo at: [http://gitlab.com/esden/pretty-kicad-libs/blob/master/tmp/data//oomlout_oomp_footprint_src/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod](http://gitlab.com/esden/pretty-kicad-libs/blob/master/tmp/data//oomlout_oomp_footprint_src/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod)  
+source repo at: [http://gitlab.com/esden/pretty-kicad-libs/blob/master/tmp/data/oomlout_oomp_footprint_src/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod](http://gitlab.com/esden/pretty-kicad-libs/blob/master/tmp/data/oomlout_oomp_footprint_src/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/esden/pretty-kicad-libs/blob/master/tmp/data/
 | footprint name | D_0402_LessSilk | 
 | footprint description | Diode SMD 0402 (Metric 1005), reflow soldering | 
 | number of pads | 2 | 
-| github path | http://github.com/esden/pretty-kicad-libs/blob/master/tmp/data//oomlout_oomp_footprint_src/pkl_dipol.pretty/D_0402_LessSilk.kicad_mod | 
+| github path | http://github.com/esden/pretty-kicad-libs/blob/master/tmp/data/oomlout_oomp_footprint_src/pkl_dipol.pretty/D_0402_LessSilk.kicad_mod | 
 | oomp key | oomp_esden_pkl_dipol_d_0402_lesssilk | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/esden_pkl_dipol_d_0402_lesssilk/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/esden_pkl_dipol_d_0402_lesssilk/working | 
 ## Images  

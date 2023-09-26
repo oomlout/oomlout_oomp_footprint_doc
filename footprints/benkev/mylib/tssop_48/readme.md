@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## TSSOP-48  by none  
+## TSSOP-48  by benkev  
   
 oomp key: oomp_benkev_mylib_tssop_48  
   
-source repo at: [http://gitlab.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod](http://gitlab.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod)  
+source repo at: [http://github.com/benkev/myLib.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XS3868module.kicad_mod](http://github.com/benkev/myLib.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XS3868module.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/benkev/myLib.pretty/blob/master/tmp/data//oom
 | footprint name | TSSOP-48 | 
 | footprint description | TSSOP-48 | 
 | number of pads | 48 | 
-| github path | http://github.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TSSOP-48.kicad_mod | 
+| github path | http://github.com/benkev/myLib.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TSSOP-48.kicad_mod | 
 | oomp key | oomp_benkev_mylib_tssop_48 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/benkev_mylib_tssop_48/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/benkev_mylib_tssop_48/working | 
 ## Images  

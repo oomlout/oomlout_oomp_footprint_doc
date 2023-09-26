@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## U-MAX10-EP  by none  
+## U-MAX10-EP  by 4ms  
   
 oomp key: oomp_4ms_4ms_package_ssop_u_max10_ep  
   
-source repo at: [http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
+source repo at: [http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlo
 | footprint name | U-MAX10-EP | 
 | footprint description | ÂµMAX 10 with EPAD | 
 | number of pads | 11 | 
-| github path | http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/4ms_Package_SSOP.pretty/U-MAX10-EP.kicad_mod | 
+| github path | http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints/4ms_Package_SSOP.pretty/U-MAX10-EP.kicad_mod | 
 | oomp key | oomp_4ms_4ms_package_ssop_u_max10_ep | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/4ms_4ms_package_ssop_u_max10_ep/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/4ms_4ms_package_ssop_u_max10_ep/working | 
 ## Images  
   
 [![working.png](working_140.png)](working.png)  

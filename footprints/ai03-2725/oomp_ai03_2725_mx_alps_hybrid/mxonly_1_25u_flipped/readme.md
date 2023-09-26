@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MXOnly-1.25U-FLIPPED  by none  
+## MXOnly-1.25U-FLIPPED  by ai03-2725  
   
 oomp key: oomp_ai03_2725_mx_alps_hybrid_mxonly_1_25u_flipped  
   
-source repo at: [http://gitlab.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod](http://gitlab.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod)  
+source repo at: [http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod](http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://gitlab.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/t
 | footprint name | MXOnly-1.25U-FLIPPED | 
 | footprint description | None | 
 | number of pads | 7 | 
-| github path | http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-1.25U-FLIPPED.kicad_mod | 
+| github path | http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-1.25U-FLIPPED.kicad_mod | 
 | oomp key | oomp_ai03_2725_mx_alps_hybrid_mxonly_1_25u_flipped | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/ai03_2725_mx_alps_hybrid_mxonly_1_25u_flipped/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/ai03_2725_mx_alps_hybrid_mxonly_1_25u_flipped/working | 
 ## Images  
   
 [![working.png](working_140.png)](working.png)  

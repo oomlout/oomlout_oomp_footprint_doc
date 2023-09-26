@@ -3,7 +3,7 @@
   
 oomp key: oomp_devbisme_rpi_hat_rpi_hat_mounting_hole  
   
-source repo at: [http://github.com/devbisme/RPi_Hat.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Samtec_HLE-120-02-XXX-DV-BE-XX-XX.kicad_mod](http://github.com/devbisme/RPi_Hat.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Samtec_HLE-120-02-XXX-DV-BE-XX-XX.kicad_mod)  
+source repo at: [http://github.com/devbisme/RPi_Hat.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Samtec_HLE-120-02-XXX-DV-BE-XX-XX.kicad_mod](http://github.com/devbisme/RPi_Hat.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Samtec_HLE-120-02-XXX-DV-BE-XX-XX.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://github.com/devbisme/RPi_Hat.pretty/blob/master/tmp/data/
 | footprint name | RPi_Hat_Mounting_Hole | 
 | footprint description | Mounting hole, Befestigungsbohrung, 2,7mm, No Annular, Kein Restring, | 
 | number of pads | 1 | 
-| github path | http://github.com/devbisme/RPi_Hat.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RPi_Hat_Mounting_Hole.kicad_mod | 
+| github path | http://github.com/devbisme/RPi_Hat.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/RPi_Hat_Mounting_Hole.kicad_mod | 
 | oomp key | oomp_devbisme_rpi_hat_rpi_hat_mounting_hole | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/devbisme_rpi_hat_rpi_hat_mounting_hole/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/devbisme_rpi_hat_rpi_hat_mounting_hole/working | 
 ## Images  

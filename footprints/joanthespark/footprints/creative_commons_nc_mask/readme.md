@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Creative_Commons_NC_Mask  by none  
+## Creative_Commons_NC_Mask  by JoanTheSpark  
   
 oomp key: oomp_joanthespark_footprints_creative_commons_nc_mask  
   
-source repo at: [http://gitlab.com/JoanTheSpark/KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/JoanTheSpark/KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/JoanTheSpark/KiCAD/blob/master/tmp/data//ooml
 | footprint name | Creative_Commons_NC_Mask | 
 | footprint description | None | 
 | number of pads | 0 | 
-| github path | http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/demos/stickhub/footprints.pretty/Creative_Commons_NC_Mask.kicad_mod | 
+| github path | http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/demos/stickhub/footprints.pretty/Creative_Commons_NC_Mask.kicad_mod | 
 | oomp key | oomp_joanthespark_footprints_creative_commons_nc_mask | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/joanthespark_footprints_creative_commons_nc_mask/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/joanthespark_footprints_creative_commons_nc_mask/working | 
 ## Images  

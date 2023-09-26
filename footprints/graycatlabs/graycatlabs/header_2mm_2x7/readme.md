@@ -3,7 +3,7 @@
   
 oomp key: oomp_graycatlabs_graycatlabs_header_2mm_2x7  
   
-source repo at: [http://gitlab.com/graycatlabs/GrayCatLabs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZX62R-B-5P.kicad_mod](http://gitlab.com/graycatlabs/GrayCatLabs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZX62R-B-5P.kicad_mod)  
+source repo at: [http://gitlab.com/graycatlabs/GrayCatLabs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ZX62R-B-5P.kicad_mod](http://gitlab.com/graycatlabs/GrayCatLabs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ZX62R-B-5P.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/graycatlabs/GrayCatLabs.pretty/blob/master/tm
 | footprint name | Header_2mm_2x7 | 
 | footprint description | None | 
 | number of pads | 14 | 
-| github path | http://github.com/graycatlabs/GrayCatLabs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Header_2mm_2x7.kicad_mod | 
+| github path | http://github.com/graycatlabs/GrayCatLabs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Header_2mm_2x7.kicad_mod | 
 | oomp key | oomp_graycatlabs_graycatlabs_header_2mm_2x7 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/graycatlabs_graycatlabs_header_2mm_2x7/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/graycatlabs_graycatlabs_header_2mm_2x7/working | 
 ## Images  

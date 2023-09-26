@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## 40tex-Ell600  by none  
+## 40tex-Ell600  by chriswags  
   
 oomp key: oomp_chriswags_pic_programmer_fp_40tex_ell600  
   
-source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://github.com/chriswags/KiCad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://github.com/chriswags/KiCad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout
 | footprint name | 40tex-Ell600 | 
 | footprint description | Support TEXTOOL Dil 40 pins, pads elliptiques, e=600 mils | 
 | number of pads | 42 | 
-| github path | http://github.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/demos/pic_programmer/libs/pic_programmer_fp.pretty/40tex-Ell600.kicad_mod | 
+| github path | http://github.com/chriswags/KiCad/blob/master/tmp/data/oomlout_oomp_footprint_src/demos/pic_programmer/libs/pic_programmer_fp.pretty/40tex-Ell600.kicad_mod | 
 | oomp key | oomp_chriswags_pic_programmer_fp_40tex_ell600 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/chriswags_pic_programmer_fp_40tex_ell600/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/chriswags_pic_programmer_fp_40tex_ell600/working | 
 ## Images  

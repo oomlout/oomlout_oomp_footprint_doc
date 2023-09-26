@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## GF-126-0159_slide_switch_2pos  by none  
+## GF-126-0159_slide_switch_2pos  by candykingdom  
   
 oomp key: oomp_candykingdom_homebrew_gf_126_0159_slide_switch_2pos  
   
-source repo at: [http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod](http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod)  
+source repo at: [http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod](http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/
 | footprint name | GF-126-0159_slide_switch_2pos | 
 | footprint description | None | 
 | number of pads | 6 | 
-| github path | http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/GF-126-0159_slide_switch_2pos.kicad_mod | 
+| github path | http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/GF-126-0159_slide_switch_2pos.kicad_mod | 
 | oomp key | oomp_candykingdom_homebrew_gf_126_0159_slide_switch_2pos | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/candykingdom_homebrew_gf_126_0159_slide_switch_2pos/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/candykingdom_homebrew_gf_126_0159_slide_switch_2pos/working | 
 ## Images  

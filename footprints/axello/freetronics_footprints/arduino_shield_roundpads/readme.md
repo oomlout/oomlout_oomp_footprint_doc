@@ -3,7 +3,7 @@
   
 oomp key: oomp_axello_freetronics_footprints_arduino_shield_roundpads  
   
-source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oo
 | footprint name | ARDUINO_SHIELD_ROUNDPADS | 
 | footprint description | test | 
 | number of pads | 39 | 
-| github path | http://github.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/freetronics_footprints.pretty/ARDUINO_SHIELD_ROUNDPADS.kicad_mod | 
+| github path | http://github.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/freetronics_footprints.pretty/ARDUINO_SHIELD_ROUNDPADS.kicad_mod | 
 | oomp key | oomp_axello_freetronics_footprints_arduino_shield_roundpads | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_arduino_shield_roundpads/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_arduino_shield_roundpads/working | 
 ## Images  

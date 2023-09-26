@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## C0805  by none  
+## C0805  by adamjvr  
   
 oomp key: oomp_adamjvr_onhand_components_c0805  
   
-source repo at: [http://gitlab.com/adamjvr/KiCAD-OnHand-Lib/blob/master/tmp/data//oomlout_oomp_footprint_src/OnHand-Components.pretty/VNH5019ATR-E.kicad_mod](http://gitlab.com/adamjvr/KiCAD-OnHand-Lib/blob/master/tmp/data//oomlout_oomp_footprint_src/OnHand-Components.pretty/VNH5019ATR-E.kicad_mod)  
+source repo at: [http://github.com/adamjvr/KiCAD-OnHand-Lib/blob/master/tmp/data/oomlout_oomp_footprint_src/OnHand-Components.pretty/VNH5019ATR-E.kicad_mod](http://github.com/adamjvr/KiCAD-OnHand-Lib/blob/master/tmp/data/oomlout_oomp_footprint_src/OnHand-Components.pretty/VNH5019ATR-E.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://gitlab.com/adamjvr/KiCAD-OnHand-Lib/blob/master/tmp/data
 | footprint name | C0805 | 
 | footprint description | None | 
 | number of pads | 2 | 
-| github path | http://github.com/adamjvr/KiCAD-OnHand-Lib/blob/master/tmp/data//oomlout_oomp_footprint_src/OnHand-Components.pretty/C0805.kicad_mod | 
+| github path | http://github.com/adamjvr/KiCAD-OnHand-Lib/blob/master/tmp/data/oomlout_oomp_footprint_src/OnHand-Components.pretty/C0805.kicad_mod | 
 | oomp key | oomp_adamjvr_onhand_components_c0805 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/adamjvr_onhand_components_c0805/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/adamjvr_onhand_components_c0805/working | 
 ## Images  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  

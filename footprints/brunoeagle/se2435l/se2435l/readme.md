@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## SE2435L  by none  
+## SE2435L  by brunoeagle  
   
 oomp key: oomp_brunoeagle_se2435l_se2435l  
   
-source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
+source repo at: [http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp
 | footprint name | SE2435L | 
 | footprint description | None | 
 | number of pads | 55 | 
-| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/SE2435L.kicad_mod | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/SE2435L.kicad_mod | 
 | oomp key | oomp_brunoeagle_se2435l_se2435l | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/brunoeagle_se2435l_se2435l/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/brunoeagle_se2435l_se2435l/working | 
 ## Images  

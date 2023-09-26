@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MICRO-USB-B-(IN_PCB)  by none  
+## MICRO-USB-B-(IN_PCB)  by dragonmux  
   
 oomp key: oomp_dx_mon_rhais_usb_micro_usb_b_(in_pcb)  
   
-source repo at: [http://gitlab.com/DX-MON/rhais_usb.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod](http://gitlab.com/DX-MON/rhais_usb.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod)  
+source repo at: [http://github.com/DX-MON/rhais_usb.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod](http://github.com/DX-MON/rhais_usb.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/DX-MON/rhais_usb.pretty/blob/master/tmp/data/
 | footprint name | MICRO-USB-B-(IN_PCB) | 
 | footprint description | None | 
 | number of pads | 11 | 
-| github path | http://github.com/DX-MON/rhais_usb.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MICRO-USB-B-(IN_PCB).kicad_mod | 
+| github path | http://github.com/DX-MON/rhais_usb.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MICRO-USB-B-(IN_PCB).kicad_mod | 
 | oomp key | oomp_dx_mon_rhais_usb_micro_usb_b_(in_pcb) | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dx_mon_rhais_usb_micro_usb_b_(in_pcb)/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dx_mon_rhais_usb_micro_usb_b_(in_pcb)/working | 
 ## Images  

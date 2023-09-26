@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## regulator_48v_to_5v  by none  
+## regulator_48v_to_5v  by asukiaaa  
   
 oomp key: oomp_asukiaaa_asukiaaa_kicad_footprints_regulator_48v_to_5v  
   
-source repo at: [http://gitlab.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod](http://gitlab.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod)  
+source repo at: [http://github.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod](http://github.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blo
 | footprint name | regulator_48v_to_5v | 
 | footprint description | None | 
 | number of pads | 6 | 
-| github path | http://github.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/regulator_48v_to_5v.kicad_mod | 
+| github path | http://github.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/regulator_48v_to_5v.kicad_mod | 
 | oomp key | oomp_asukiaaa_asukiaaa_kicad_footprints_regulator_48v_to_5v | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/asukiaaa_asukiaaa_kicad_footprints_regulator_48v_to_5v/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/asukiaaa_asukiaaa_kicad_footprints_regulator_48v_to_5v/working | 
 ## Images  

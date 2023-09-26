@@ -3,7 +3,7 @@
   
 oomp key: oomp_digi_key_digikey_footprints_sitime_smd_6_1ep  
   
-source repo at: [http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod](http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod)  
+source repo at: [http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data/oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod](http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data/oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://github.com/digikey/digikey-kicad-library/blob/master/tmp
 | footprint name | SiTIME_SMD-6-1EP | 
 | footprint description | https://www.sitime.com/products/datasheets/sit9102/SiT9102-datasheet.pdf | 
 | number of pads | 7 | 
-| github path | http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/digikey-footprints.pretty/SiTIME_SMD-6-1EP.kicad_mod | 
+| github path | http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data/oomlout_oomp_footprint_src/digikey-footprints.pretty/SiTIME_SMD-6-1EP.kicad_mod | 
 | oomp key | oomp_digi_key_digikey_footprints_sitime_smd_6_1ep | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/digi_key_digikey_footprints_sitime_smd_6_1ep/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/digi_key_digikey_footprints_sitime_smd_6_1ep/working | 
 ## Images  

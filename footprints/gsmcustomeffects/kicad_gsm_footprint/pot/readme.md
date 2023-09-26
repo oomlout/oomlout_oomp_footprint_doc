@@ -3,7 +3,7 @@
   
 oomp key: oomp_gsmcustomeffects_kicad_gsm_footprint_pot  
   
-source repo at: [http://gitlab.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/VerticalPOT.kicad_mod](http://gitlab.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/VerticalPOT.kicad_mod)  
+source repo at: [http://gitlab.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/VerticalPOT.kicad_mod](http://gitlab.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/VerticalPOT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty/b
 | footprint name | POT | 
 | footprint description | None | 
 | number of pads | 3 | 
-| github path | http://github.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/POT.kicad_mod | 
+| github path | http://github.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/POT.kicad_mod | 
 | oomp key | oomp_gsmcustomeffects_kicad_gsm_footprint_pot | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/gsmcustomeffects_kicad_gsm_footprint_pot/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/gsmcustomeffects_kicad_gsm_footprint_pot/working | 
 ## Images  

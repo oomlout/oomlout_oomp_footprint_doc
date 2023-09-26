@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Socket_Strip_Arduino_1x08  by none  
+## Socket_Strip_Arduino_1x08  by JoanTheSpark  
   
 oomp key: oomp_joanthespark_socket_arduino_mega_socket_strip_arduino_1x08  
   
-source repo at: [http://gitlab.com/JoanTheSpark/KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/JoanTheSpark/KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/JoanTheSpark/KiCAD/blob/master/tmp/data//ooml
 | footprint name | Socket_Strip_Arduino_1x08 | 
 | footprint description | Through hole socket strip | 
 | number of pads | 8 | 
-| github path | http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/Arduino_Mega_433Mhz_Shield/Socket_Arduino_Mega.pretty/Socket_Strip_Arduino_1x08.kicad_mod | 
+| github path | http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/Arduino_Mega_433Mhz_Shield/Socket_Arduino_Mega.pretty/Socket_Strip_Arduino_1x08.kicad_mod | 
 | oomp key | oomp_joanthespark_socket_arduino_mega_socket_strip_arduino_1x08 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/joanthespark_socket_arduino_mega_socket_strip_arduino_1x08/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/joanthespark_socket_arduino_mega_socket_strip_arduino_1x08/working | 
 ## Images  

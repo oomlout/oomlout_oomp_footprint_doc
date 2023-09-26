@@ -3,7 +3,7 @@
   
 oomp key: oomp_cvra_connectors_615108150221r_ethernet_middlemount  
   
-source repo at: [http://github.com/cvra/kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod](http://github.com/cvra/kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod)  
+source repo at: [http://github.com/cvra/kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod](http://github.com/cvra/kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://github.com/cvra/kicad-lib/blob/master/tmp/data//oomlout_
 | footprint name | 615108150221R_Ethernet_MiddleMount | 
 | footprint description | None | 
 | number of pads | 12 | 
-| github path | http://github.com/cvra/kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/_connectors.pretty/615108150221R_Ethernet_MiddleMount.kicad_mod | 
+| github path | http://github.com/cvra/kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints/_connectors.pretty/615108150221R_Ethernet_MiddleMount.kicad_mod | 
 | oomp key | oomp_cvra_connectors_615108150221r_ethernet_middlemount | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cvra_connectors_615108150221r_ethernet_middlemount/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/cvra_connectors_615108150221r_ethernet_middlemount/working | 
 ## Images  

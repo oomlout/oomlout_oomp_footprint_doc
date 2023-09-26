@@ -3,7 +3,7 @@
   
 oomp key: oomp_diypinball_pinballparts_boxheader_0_100_34  
   
-source repo at: [http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod](http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod)  
+source repo at: [http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod](http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://github.com/diypinball/PinballParts.pretty/blob/master/tm
 | footprint name | BOXHEADER-0.100-34 | 
 | footprint description | None | 
 | number of pads | 34 | 
-| github path | http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/BOXHEADER-0.100-34.kicad_mod | 
+| github path | http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/BOXHEADER-0.100-34.kicad_mod | 
 | oomp key | oomp_diypinball_pinballparts_boxheader_0_100_34 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_boxheader_0_100_34/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_boxheader_0_100_34/working | 
 ## Images  

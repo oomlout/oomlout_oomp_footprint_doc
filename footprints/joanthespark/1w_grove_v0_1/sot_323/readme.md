@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## SOT-323  by none  
+## SOT-323  by JoanTheSpark  
   
 oomp key: oomp_joanthespark_1w_grove_v0_1_sot_323  
   
-source repo at: [http://gitlab.com/JoanTheSpark/KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/JoanTheSpark/KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/JoanTheSpark/KiCAD/blob/master/tmp/data//ooml
 | footprint name | SOT-323 | 
 | footprint description | https://assets.nexperia.com/documents/data-sheet/PESD1CAN-U.pdf | 
 | number of pads | 3 | 
-| github path | http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/SOT-323.kicad_mod | 
+| github path | http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/SOT-323.kicad_mod | 
 | oomp key | oomp_joanthespark_1w_grove_v0_1_sot_323 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/joanthespark_1w_grove_v0_1_sot_323/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/joanthespark_1w_grove_v0_1_sot_323/working | 
 ## Images  

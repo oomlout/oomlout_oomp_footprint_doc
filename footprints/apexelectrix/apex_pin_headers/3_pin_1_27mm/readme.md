@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## 3-PIN-1.27mm  by none  
+## 3-PIN-1.27mm  by apexelectrix  
   
 oomp key: oomp_apexelectrix_apex_pin_headers_3_pin_1_27mm  
   
-source repo at: [http://gitlab.com/apexelectrix/apex-pin-headers.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Pin_Header_Straight_1x03.kicad_mod](http://gitlab.com/apexelectrix/apex-pin-headers.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Pin_Header_Straight_1x03.kicad_mod)  
+source repo at: [http://github.com/apexelectrix/apex-pin-headers.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Pin_Header_Straight_1x03.kicad_mod](http://github.com/apexelectrix/apex-pin-headers.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Pin_Header_Straight_1x03.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/apexelectrix/apex-pin-headers.pretty/blob/mas
 | footprint name | 3-PIN-1.27mm | 
 | footprint description | None | 
 | number of pads | 3 | 
-| github path | http://github.com/apexelectrix/apex-pin-headers.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/3-PIN-1.27mm.kicad_mod | 
+| github path | http://github.com/apexelectrix/apex-pin-headers.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/3-PIN-1.27mm.kicad_mod | 
 | oomp key | oomp_apexelectrix_apex_pin_headers_3_pin_1_27mm | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/apexelectrix_apex_pin_headers_3_pin_1_27mm/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/apexelectrix_apex_pin_headers_3_pin_1_27mm/working | 
 ## Images  

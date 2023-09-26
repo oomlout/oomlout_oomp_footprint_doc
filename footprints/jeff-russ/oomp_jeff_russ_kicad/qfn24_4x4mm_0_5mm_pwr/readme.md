@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## QFN24_4X4mm_0.5mm_PWR  by none  
+## QFN24_4X4mm_0.5mm_PWR  by Jeff-Russ  
   
 oomp key: oomp_jeff_russ_kicad_qfn24_4x4mm_0_5mm_pwr  
   
-source repo at: [http://gitlab.com/Jeff-Russ/Kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://gitlab.com/Jeff-Russ/Kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
+source repo at: [http://github.com/Jeff-Russ/Kicad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://github.com/Jeff-Russ/Kicad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/Jeff-Russ/Kicad.pretty/blob/master/tmp/data//
 | footprint name | QFN24_4X4mm_0.5mm_PWR | 
 | footprint description | Quad Flat, No pins, Exposed pad | 
 | number of pads | 25 | 
-| github path | http://github.com/Jeff-Russ/Kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/QFN24_4X4mm_0.5mm_PWR.kicad_mod | 
+| github path | http://github.com/Jeff-Russ/Kicad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/QFN24_4X4mm_0.5mm_PWR.kicad_mod | 
 | oomp key | oomp_jeff_russ_kicad_qfn24_4x4mm_0_5mm_pwr | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/jeff_russ_kicad_qfn24_4x4mm_0_5mm_pwr/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/jeff_russ_kicad_qfn24_4x4mm_0_5mm_pwr/working | 
 ## Images  

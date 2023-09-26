@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## DIP-8_W8.89mm_SMDSocket_LongPads  by none  
+## DIP-8_W8.89mm_SMDSocket_LongPads  by JEON-KS  
   
 oomp key: oomp_jeon_ks_kicad_footprint_dip_8_w8_89mm_smdsocket_longpads  
   
-source repo at: [http://gitlab.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod](http://gitlab.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod)  
+source repo at: [http://github.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod](http://github.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tm
 | footprint name | DIP-8_W8.89mm_SMDSocket_LongPads | 
 | footprint description | 8-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads | 
 | number of pads | 8 | 
-| github path | http://github.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/DIP-8_W8.89mm_SMDSocket_LongPads.kicad_mod | 
+| github path | http://github.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/DIP-8_W8.89mm_SMDSocket_LongPads.kicad_mod | 
 | oomp key | oomp_jeon_ks_kicad_footprint_dip_8_w8_89mm_smdsocket_longpads | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/jeon_ks_kicad_footprint_dip_8_w8_89mm_smdsocket_longpads/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/jeon_ks_kicad_footprint_dip_8_w8_89mm_smdsocket_longpads/working | 
 ## Images  

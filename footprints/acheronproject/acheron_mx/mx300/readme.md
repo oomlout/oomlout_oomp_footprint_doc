@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MX300  by none  
+## MX300  by AcheronProject  
   
 oomp key: oomp_acheronproject_acheron_mx_mx300  
   
-source repo at: [http://gitlab.com/AcheronProject/acheron_MX.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISOEnter_LED.kicad_mod](http://gitlab.com/AcheronProject/acheron_MX.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISOEnter_LED.kicad_mod)  
+source repo at: [http://github.com/AcheronProject/acheron_MX.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_ISOEnter_LED.kicad_mod](http://github.com/AcheronProject/acheron_MX.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_ISOEnter_LED.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://gitlab.com/AcheronProject/acheron_MX.pretty/blob/master/
 | footprint name | MX300 | 
 | footprint description | None | 
 | number of pads | 9 | 
-| github path | http://github.com/AcheronProject/acheron_MX.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX300.kicad_mod | 
+| github path | http://github.com/AcheronProject/acheron_MX.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX300.kicad_mod | 
 | oomp key | oomp_acheronproject_acheron_mx_mx300 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_mx_mx300/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/acheronproject_acheron_mx_mx300/working | 
 ## Images  
   
 [![working.png](working_140.png)](working.png)  

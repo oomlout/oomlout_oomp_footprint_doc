@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## RCD-24  by none  
+## RCD-24  by asukiaaa  
   
 oomp key: oomp_asukiaaa_asukiaaa_kicad_footprints_rcd_24  
   
-source repo at: [http://gitlab.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod](http://gitlab.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod)  
+source repo at: [http://github.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod](http://github.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blo
 | footprint name | RCD-24 | 
 | footprint description | None | 
 | number of pads | 6 | 
-| github path | http://github.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RCD-24.kicad_mod | 
+| github path | http://github.com/asukiaaa/asukiaaa-kicad-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/RCD-24.kicad_mod | 
 | oomp key | oomp_asukiaaa_asukiaaa_kicad_footprints_rcd_24 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/asukiaaa_asukiaaa_kicad_footprints_rcd_24/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/asukiaaa_asukiaaa_kicad_footprints_rcd_24/working | 
 ## Images  

@@ -3,7 +3,7 @@
   
 oomp key: oomp_axello_interf_u_bus_pc  
   
-source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oo
 | footprint name | BUS_PC | 
 | footprint description | Connecteur Bus PC 8 bits | 
 | number of pads | 62 | 
-| github path | http://github.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/demos/interf_u/interf_u.pretty/BUS_PC.kicad_mod | 
+| github path | http://github.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/demos/interf_u/interf_u.pretty/BUS_PC.kicad_mod | 
 | oomp key | oomp_axello_interf_u_bus_pc | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/axello_interf_u_bus_pc/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/axello_interf_u_bus_pc/working | 
 ## Images  

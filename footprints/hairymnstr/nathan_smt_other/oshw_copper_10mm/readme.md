@@ -3,7 +3,7 @@
   
 oomp key: oomp_hairymnstr_nathan_smt_other_oshw_copper_10mm  
   
-source repo at: [http://gitlab.com/hairymnstr/Nathan_SMT_Other.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_6036.kicad_mod](http://gitlab.com/hairymnstr/Nathan_SMT_Other.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_6036.kicad_mod)  
+source repo at: [http://gitlab.com/hairymnstr/Nathan_SMT_Other.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL_6036.kicad_mod](http://gitlab.com/hairymnstr/Nathan_SMT_Other.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL_6036.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/hairymnstr/Nathan_SMT_Other.pretty/blob/maste
 | footprint name | OSHW_COPPER_10MM | 
 | footprint description | None | 
 | number of pads | 22 | 
-| github path | http://github.com/hairymnstr/Nathan_SMT_Other.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/OSHW_COPPER_10MM.kicad_mod | 
+| github path | http://github.com/hairymnstr/Nathan_SMT_Other.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/OSHW_COPPER_10MM.kicad_mod | 
 | oomp key | oomp_hairymnstr_nathan_smt_other_oshw_copper_10mm | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_smt_other_oshw_copper_10mm/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_smt_other_oshw_copper_10mm/working | 
 ## Images  

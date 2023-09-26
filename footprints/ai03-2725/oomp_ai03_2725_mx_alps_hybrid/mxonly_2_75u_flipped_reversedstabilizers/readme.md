@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MXOnly-2.75U-FLIPPED-ReversedStabilizers  by none  
+## MXOnly-2.75U-FLIPPED-ReversedStabilizers  by ai03-2725  
   
 oomp key: oomp_ai03_2725_mx_alps_hybrid_mxonly_2_75u_flipped_reversedstabilizers  
   
-source repo at: [http://gitlab.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod](http://gitlab.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod)  
+source repo at: [http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod](http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://gitlab.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/t
 | footprint name | MXOnly-2.75U-FLIPPED-ReversedStabilizers | 
 | footprint description | None | 
 | number of pads | 11 | 
-| github path | http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-2.75U-FLIPPED-ReversedStabilizers.kicad_mod | 
+| github path | http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-2.75U-FLIPPED-ReversedStabilizers.kicad_mod | 
 | oomp key | oomp_ai03_2725_mx_alps_hybrid_mxonly_2_75u_flipped_reversedstabilizers | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/ai03_2725_mx_alps_hybrid_mxonly_2_75u_flipped_reversedstabilizers/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/ai03_2725_mx_alps_hybrid_mxonly_2_75u_flipped_reversedstabilizers/working | 
 ## Images  
   
 [![working.png](working_140.png)](working.png)  

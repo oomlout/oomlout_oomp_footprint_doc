@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## SOT-23-DIODE-SWAP2AND3  by none  
+## SOT-23-DIODE-SWAP2AND3  by 4ms  
   
 oomp key: oomp_4ms_4ms_legacy_footprints_sot_23_diode_swap2and3  
   
-source repo at: [http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
+source repo at: [http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlo
 | footprint name | SOT-23-DIODE-SWAP2AND3 | 
 | footprint description | SOT-23, Standard | 
 | number of pads | 3 | 
-| github path | http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/SOT-23-DIODE-SWAP2AND3.kicad_mod | 
+| github path | http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/SOT-23-DIODE-SWAP2AND3.kicad_mod | 
 | oomp key | oomp_4ms_4ms_legacy_footprints_sot_23_diode_swap2and3 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/4ms_4ms_legacy_footprints_sot_23_diode_swap2and3/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/4ms_4ms_legacy_footprints_sot_23_diode_swap2and3/working | 
 ## Images  
   
 [![working.png](working_140.png)](working.png)  

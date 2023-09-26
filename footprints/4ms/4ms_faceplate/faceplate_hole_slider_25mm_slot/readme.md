@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Faceplate_Hole_Slider_25mm_Slot  by none  
+## Faceplate_Hole_Slider_25mm_Slot  by 4ms  
   
 oomp key: oomp_4ms_4ms_faceplate_faceplate_hole_slider_25mm_slot  
   
-source repo at: [http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
+source repo at: [http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlo
 | footprint name | Faceplate_Hole_Slider_25mm_Slot | 
 | footprint description | None | 
 | number of pads | 0 | 
-| github path | http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/4ms_Faceplate.pretty/Faceplate_Hole_Slider_25mm_Slot.kicad_mod | 
+| github path | http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints/4ms_Faceplate.pretty/Faceplate_Hole_Slider_25mm_Slot.kicad_mod | 
 | oomp key | oomp_4ms_4ms_faceplate_faceplate_hole_slider_25mm_slot | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/4ms_4ms_faceplate_faceplate_hole_slider_25mm_slot/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/4ms_4ms_faceplate_faceplate_hole_slider_25mm_slot/working | 
 ## Images  
   
 [![working.png](working_140.png)](working.png)  
