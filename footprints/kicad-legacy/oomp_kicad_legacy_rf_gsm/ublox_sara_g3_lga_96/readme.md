@@ -3,7 +3,7 @@
   
 oomp key: oomp_kicad_legacy_rf_gsm_ublox_sara_g3_lga_96  
   
-source repo at: [http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+source repo at: [http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Socket.pretty/Wells_648-0482211SA01.kicad_mod](http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Socket.pretty/Wells_648-0482211SA01.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp
 | footprint name | ublox_SARA-G3_LGA-96 | 
 | footprint description | ublox Sara GSM/HSPA modem, https://www.u-blox.com/sites/default/files/SARA-G3-U2_SysIntegrManual_%28UBX-13000995%29.pdf, pag.162 | 
 | number of pads | 192 | 
-| github path | http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/RF_GSM.pretty/ublox_SARA-G3_LGA-96.kicad_mod | 
+| github path | http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/RF_GSM.pretty/ublox_SARA-G3_LGA-96.kicad_mod | 
 | oomp key | oomp_kicad_legacy_rf_gsm_ublox_sara_g3_lga_96 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_rf_gsm_ublox_sara_g3_lga_96/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/kicad_legacy_rf_gsm_ublox_sara_g3_lga_96/working | 
 ## Images  

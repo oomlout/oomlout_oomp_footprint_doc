@@ -3,7 +3,7 @@
   
 oomp key: oomp_kicad_legacy_sensor_senseair_s8_down  
   
-source repo at: [http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+source repo at: [http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Socket.pretty/Wells_648-0482211SA01.kicad_mod](http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Socket.pretty/Wells_648-0482211SA01.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp
 | footprint name | Senseair_S8_Down | 
 | footprint description | Sensair S8 Series CO2 sensor, 1kHz PWM output, Modbus, THT | 
 | number of pads | 9 | 
-| github path | http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Sensor.pretty/Senseair_S8_Down.kicad_mod | 
+| github path | http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Sensor.pretty/Senseair_S8_Down.kicad_mod | 
 | oomp key | oomp_kicad_legacy_sensor_senseair_s8_down | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_sensor_senseair_s8_down/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/kicad_legacy_sensor_senseair_s8_down/working | 
 ## Images  
